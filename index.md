@@ -5,7 +5,7 @@
 ### Data Analysis Personal Projects
 
 ---
-[SoundCloud: Analysis of Likes & Import to Spotify Functionality](https://nbviewer.jupyter.org/github/kaichang1/SoundCloud/blob/master/SoundCloud.ipynb)  
+[SoundCloud: Analysis of Likes and Import to Spotify Functionality](https://nbviewer.jupyter.org/github/kaichang1/SoundCloud/blob/master/SoundCloud.ipynb)  
 Python \| Data Analysis \| Web Scraping \| API
 ![SoundCloud Project](https://raw.githubusercontent.com/kaichang1/kaichang1.github.io/master/Images/SoundCloud%20Project.jpg)
 
