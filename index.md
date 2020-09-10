@@ -1,7 +1,3 @@
-## Portfolio
-
----
-
 ### Data Analysis Personal Projects
 
 ---
