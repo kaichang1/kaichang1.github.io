@@ -1,13 +1,8 @@
-### Data Science Personal Projects
-
----
-[SoundCloud: Analysis of Likes and Automatic Import to Spotify Playlist](https://nbviewer.jupyter.org/github/kaichang1/SoundCloud/blob/master/SoundCloud.ipynb)  
-Python \| Data Analysis \| Web Scraping \| API
-![SoundCloud Project](https://raw.githubusercontent.com/kaichang1/kaichang1.github.io/master/Images/SoundCloud%20Project.jpg)
-
----
-
 ### Data Science Projects
+
+---
+[Custom-Built Neural Network](https://github.com/kaichang1/neural-network)  
+Python \| Data Science \| Machine Learning
 
 ---
 [Twitch: Trends in Viewership and Streamer Habits](https://nbviewer.jupyter.org/github/kaichang1/Twitch/blob/master/Twitch.ipynb)  
@@ -23,6 +18,15 @@ Python \| Data Analysis \| Web Scraping
 [IMDb: Genre Analysis of Blockbuster Movies](https://nbviewer.jupyter.org/github/kaichang1/IMDb-SQL/blob/master/IMDb.ipynb)  
 SQL \| Python \| Data Analysis
 ![IMDb Project](https://raw.githubusercontent.com/kaichang1/kaichang1.github.io/master/Images/IMDb%20Project.jpg)
+
+---
+
+### Data Science Personal Projects
+
+---
+[SoundCloud: Analysis of Likes and Automatic Import to Spotify Playlist](https://nbviewer.jupyter.org/github/kaichang1/SoundCloud/blob/master/SoundCloud.ipynb)  
+Python \| Data Analysis \| Web Scraping \| API
+![SoundCloud Project](https://raw.githubusercontent.com/kaichang1/kaichang1.github.io/master/Images/SoundCloud%20Project.jpg)
 
 ---
 
