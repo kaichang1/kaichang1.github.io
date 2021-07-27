@@ -2,4 +2,4 @@
 
 ---
 
-[Data Analyst Portfolio](https://kaichang1.github.io/)
+[Data Science Portfolio](https://kaichang1.github.io/)
