@@ -1,4 +1,4 @@
-### Data Analysis Personal Projects
+### Data Science Personal Projects
 
 ---
 [SoundCloud: Analysis of Likes and Automatic Import to Spotify Playlist](https://nbviewer.jupyter.org/github/kaichang1/SoundCloud/blob/master/SoundCloud.ipynb)  
@@ -7,7 +7,7 @@ Python \| Data Analysis \| Web Scraping \| API
 
 ---
 
-### Data Analysis Projects
+### Data Science Projects
 
 ---
 [Twitch: Trends in Viewership and Streamer Habits](https://nbviewer.jupyter.org/github/kaichang1/Twitch/blob/master/Twitch.ipynb)  
