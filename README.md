@@ -1,3 +1,3 @@
 # Portfolio
 
-Check out my portfolio [here](https://kaichang1.github.io/)!
+Take a look at my portfolio [here](https://kaichang1.github.io/)!
