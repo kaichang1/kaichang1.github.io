@@ -1,5 +1,3 @@
-## Portfolio
+# Portfolio
 
----
-
-[Data Science Portfolio](https://kaichang1.github.io/)
+[Portfolio](https://kaichang1.github.io/)
